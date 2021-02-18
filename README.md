@@ -10,5 +10,5 @@ A classic card matching game,the code is written in python using pygame library.
 ![image2](https://i.imgur.com/BtAiQGu.png)
 ## Using the application
 * Clone GitHub repository
-* Install Pygame: pip install pygame
-* Run: python main.py
+* Install Pygame: ``` pip install pygame ```
+* Run: python ``` main.py ```

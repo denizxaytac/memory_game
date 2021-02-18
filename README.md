@@ -9,6 +9,6 @@ A classic card matching game,the code is written in python using pygame library.
 ![image1](https://i.imgur.com/ghpQoB0.png)
 ![image2](https://i.imgur.com/BtAiQGu.png)
 ## Using the application
-> Clone GitHub repository
-> Install Pygame: pip install pygame
-> Run: python main.py
+* Clone GitHub repository
+* Install Pygame: pip install pygame
+* Run: python main.py
